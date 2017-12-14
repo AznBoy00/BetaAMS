@@ -1,0 +1,52 @@
+========== HeavenMS ==========
+Credits:
+Ronan - Freelance Developer
+Vcoc - Freelance Developer
+
+---------------------------
+ToDo / Missing features list:
+---------------------------
+
+
+---------------------------
+** Others **
+- Marriage
+---------------------------
+
+
+---------------------------
+** Quest **
+---------------------------
+
+
+---------------------------
+** Basic PQs **
+---------------------------
+
+
+---------------------------
+** Packet issues & advanced PQs **
+- Mystic Doors (won't deploy players properly is some situations, only destination map matches).
+- Ariant Party Quest
+- Monster Carnival 1/2 Party Quest
+- Nett's Pyramid Party Quest
+---------------------------
+
+
+---------------------------
+** Skills **
+---------------------------
+
+
+---------------------------
+** Jobs **
+- Check Aran
+- Check Cygnus Knights
+---------------------------
+
+
+---------------------------
+** GM/ADMIN **
+---------------------------
+
+====================================
