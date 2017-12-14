@@ -550,7 +550,7 @@ public class MaplePacketCreator {
                 mplew.writeLong(getTime(-2));
                 mplew.writeLong(getTime(System.currentTimeMillis()));
                 mplew.writeInt(0);
-                mplew.writeMapleAsciiString("http://maplesolaxia.com");
+                mplew.writeMapleAsciiString("http://google.ca");
                 return mplew.getPacket();
         }
 
